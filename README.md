@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Shanu 👋</h1>
 
 <h3 align="center">
-Mechanical Engineer | Digital Twin | Biomechanics | Machine Learning
+Mechanical Engineer | Digital Twin | Biomechanics | BatteryOptimization | Machine Learning
 </h3>
 
 <p align="center">
@@ -15,7 +15,7 @@ Building data-driven mechanical systems through simulation, robotics & predictiv
 ⚙️ Mechanical System Design & Simulation  
 🌐 Digital Twin Modeling for Manufacturing Systems  
 🧬 Biomechanical Stress & Vibration Analysis  
-🤖 Autonomous Robotic Systems  
+🔋 EV Battery Thermal Management & Fast Charging Optimization 
 📊 Machine Learning for Predictive Engineering  
 
 ---
