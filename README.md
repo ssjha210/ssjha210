@@ -15,7 +15,8 @@ Building data-driven mechanical systems through simulation, robotics & predictiv
 ⚙️ Mechanical System Design & Simulation  
 🌐 Digital Twin Modeling for Manufacturing Systems  
 🧬 Biomechanical Stress & Vibration Analysis  
-🔋 EV Battery Thermal Management & Fast Charging Optimization 
+🔋 EV Battery Thermal Management & Fast Charging Optimization
+
 📊 Machine Learning for Predictive Engineering  
 
 ---
