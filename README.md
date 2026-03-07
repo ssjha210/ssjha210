@@ -12,11 +12,11 @@ Building data-driven mechanical systems through simulation, robotics & predictiv
 
 ## 🚀 What I Work On
 
-⚙️ Mechanical System Design & Simulation  
+⚙️ Mechanical System Design & Engineering Simulation  
 🌐 Digital Twin Modeling for Manufacturing Systems  
 🧬 Biomechanical Stress & Vibration Analysis  
-🔋 EV Battery Thermal Management & Fast Charging Optimization
-📊 Machine Learning for Predictive Engineering  
+🔋 EV Battery Thermal Management & Fast-Charging Optimization  
+📊 Machine Learning for Predictive Engineering Systems
 
 ---
 
