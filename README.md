@@ -175,16 +175,6 @@ One commit at a time.
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=merko&hide_border=true&bg_color=0d1117&title_color=64FFDA&icon_color=64FFDA&text_color=c9d1d9&border_radius=12" />
-  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=merko&hide_border=true&background=0d1117&ring=64FFDA&fire=64FFDA&currStreakLabel=64FFDA&border_radius=12" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=merko&hide_border=true&bg_color=0d1117&title_color=64FFDA&text_color=c9d1d9&border_radius=12" />
-</div>
 
 ---
 
