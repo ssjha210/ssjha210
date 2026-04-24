@@ -39,17 +39,7 @@ class Shanu:
 
 ---
 
-## 💼 Experience
 
-<table>
-<tr>
-<td width="8%" align="center">🏢</td>
-<td>
-
-**AI/ML Intern** — InLighn Tech
-`July 2025 → August 2025`
-
-Got hands-on exposure to real AI/ML workflows during a 1-month internship. Worked with data pipelines, model training basics, and applied ML concepts in a professional environment for the first time.
 
 </td>
 </tr>
