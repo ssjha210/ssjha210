@@ -1,40 +1,92 @@
-<h1 align="center">Hi, I'm Shanu 👋</h1>
+<h1 align="center">Hey, I'm Shanu 👋</h1>
 
 <h3 align="center">
-Mechanical Engineer | Digital Twin | Biomechanics | BatteryOptimization | Machine Learning
+AI Engineer | Machine Learning | Deep Learning | NLP
 </h3>
 
 <p align="center">
-Building data-driven mechanical systems through simulation, robotics & predictive modeling.
+Building intelligent systems using data, algorithms, and real-world problem solving 🚀
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Machine+Learning+Engineer;Deep+Learning+Enthusiast;NLP+Explorer;Computer+Vision+Builder;AI+for+Real+World+Problems" />
 </p>
 
 ---
 
-## 🚀 What I Work On
+## 🚀 About Me
 
-⚙️ Mechanical System Design & Engineering Simulation  
-🌐 Digital Twin Modeling for Manufacturing Systems  
-🧬 Biomechanical Stress & Vibration Analysis  
-🔋 EV Battery Thermal Management & Fast-Charging Optimization  
-📊 Machine Learning for Predictive Engineering Systems
-
----
-
-## 🛠 Core Technical Areas
-
-#### 📐 CAD & Simulation
-![Fusion 360](https://img.shields.io/badge/Fusion%20360-EFAD29?style=flat-square&logo=autodesk&logoColor=white) ![SolidWorks](https://img.shields.io/badge/SolidWorks-DA1F28?style=flat-square&logo=solidworks&logoColor=white) ![CATIA](https://img.shields.io/badge/CATIA-00568B?style=flat-square&logo=dassaultsystemes&logoColor=white) ![ANSYS](https://img.shields.io/badge/ANSYS-FFB400?style=flat-square&logo=ansys&logoColor=black) ![AutoCAD](https://img.shields.io/badge/AutoCAD-063545?style=flat-square&logo=autodesk&logoColor=white)
-
-#### 🤖 Machine Learning & Data
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![MATLAB](https://img.shields.io/badge/MATLAB-ED1C24?style=flat-square&logo=mathworks&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![Regression](https://img.shields.io/badge/Regression_Modeling-3F4F75?style=flat-square)
-
-#### 📟 Robotics & Embedded Systems
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![Control Logic](https://img.shields.io/badge/Control_Logic-4B0082?style=flat-square) ![Sensor Integration](https://img.shields.io/badge/Sensor_Integration-22314E?style=flat-square)
-
-#### ⚙️ Mechanical Engineering
-![CNC](https://img.shields.io/badge/CNC_Systems-555555?style=flat-square) ![Vehicle Dynamics](https://img.shields.io/badge/Vehicle_Dynamics-007ACC?style=flat-square) ![Digital Twin](https://img.shields.io/badge/Digital_Twin-00C7B7?style=flat-square) ![Brake Systems](https://img.shields.io/badge/Brake_System_Design-D22128?style=flat-square) ![FEA](https://img.shields.io/badge/FEA_Analysis-FF6F00?style=flat-square)
+- 🤖 Focused on **Machine Learning, Deep Learning & AI Systems**
+- 🧠 Exploring **Neural Networks, NLP & Computer Vision**
+- 📊 Building **end-to-end ML pipelines (data → model → deployment)**
+- ⚡ Interested in **real-world AI applications & scalable systems**
 
 ---
 
-## 🎯 Current Focus
-Integrating Mechanical Core Engineering with Machine Learning to develop intelligent and predictive engineering systems.
+## 🧠 Core Domains
+
+🔹 Machine Learning  
+🔹 Deep Learning  
+🔹 Natural Language Processing (NLP)  
+🔹 Computer Vision  
+🔹 Predictive Modeling  
+🔹 Data Science  
+
+---
+
+## 🛠 Tech Stack
+
+### 👨‍💻 Languages & Tools
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+### 📚 Machine Learning
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
+
+### 🔥 Deep Learning
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow)
+![PyTorch](https://img.shields.io/badge/PyTorch-E34F26?style=for-the-badge&logo=pytorch)
+
+### 🧾 NLP & AI
+![NLTK](https://img.shields.io/badge/NLTK-154F3D?style=for-the-badge)
+![Transformers](https://img.shields.io/badge/HuggingFace-FFCC00?style=for-the-badge)
+
+### 📊 Visualization & Apps
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge)
+
+---
+
+## 🚀 Featured Projects
+
+🔹 AI-Powered Notes Summarizer + Quiz Generator (NLP)  
+🔹 Road Hazard Detection System (Computer Vision + ML)  
+🔹 Predictive Analytics Models (Regression & Classification)  
+🔹 Intelligent Data Visualization Dashboards  
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+</p>
+
+---
+
+## 🌐 Let's Connect
+
+<p align="center">
+  <a href="https://linkedin.com/in/YOUR_LINK">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin">
+  </a>
+</p>
+
+---
+
+<p align="center">
+✨ "Turning data into intelligence, and intelligence into impact." ✨
+</p>
