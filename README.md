@@ -17,7 +17,7 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/YOUR_LINK](https://www.linkedin.com/in/shanu-jha-9106b1328/))
+[![LinkedIn](https://img.shields.io/badge/CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/shanu-jha-9106b1328/])
 [![Email](https://img.shields.io/badge/REACH_OUT-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jhashanu208@email.com)
 [![Portfolio](https://img.shields.io/badge/PORTFOLIO-111111?style=for-the-badge&logo=vercel&logoColor=white)](https://yourportfolio.com)
 
