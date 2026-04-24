@@ -28,7 +28,7 @@
 
 ```python
 class Shanu:
-    role        = "AI Engineer"
+    role        = "Future AI ML Engineer"
     location    = "India 🇮🇳"
     focus       = ["Machine Learning", "Deep Learning", "NLP", "Computer Vision"]
     currently   = "Building end-to-end intelligent systems"
@@ -44,7 +44,7 @@ class Shanu:
 
 ---
 
-## ⚡ What I Actually Do
+## ⚡ What I Actually Doing
 
 <table>
 <tr>
