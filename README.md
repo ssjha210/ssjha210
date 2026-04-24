@@ -1,13 +1,6 @@
 <div align="center">
 
-```
- _____ _
-/  ___| |
-\ `--.| |__   __ _ _ __  _   _
- `--. \ '_ \ / _` | '_ \| | | |
-/\__/ / | | | (_| | | | | |_| |
-\____/|_| |_|\__,_|_| |_|\__,_|
-```
+<img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=700&size=42&duration=4000&pause=2000&color=FFFFFF&center=true&vCenter=true&width=400&lines=Shanu." />
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3000&pause=900&color=64FFDA&center=true&vCenter=true&width=620&lines=AI+%26+ML+Learner+%7C+Still+in+the+making...;Exploring+Machine+Learning+%26+Deep+Learning;NLP+%7C+Computer+Vision+%7C+Data+Science;Learning+every+single+day+%F0%9F%9A%80" />
 
