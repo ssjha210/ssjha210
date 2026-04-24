@@ -17,9 +17,8 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/shanu-jha-9106b1328/])
-[![Email](https://img.shields.io/badge/REACH_OUT-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jhashanu208@email.com)
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-111111?style=for-the-badge&logo=vercel&logoColor=white)](https://yourportfolio.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME)
+[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
 
 </div>
 
@@ -121,6 +120,7 @@ Data ingestion → feature engineering → model training → evaluation → dep
 <td width="50%" valign="top">
 
 ### 📝 AI Notes Summarizer + Quiz Generator
+![Status](https://img.shields.io/badge/Status-Ongoing-64FFDA?style=flat-square&color=0d4f3c)
 > *NLP | Transformers | Streamlit*
 
 Ingests raw study notes and outputs a clean summary + auto-generated quiz. Reduces study friction. Uses extractive + abstractive summarization pipelines.
@@ -131,6 +131,7 @@ Ingests raw study notes and outputs a clean summary + auto-generated quiz. Reduc
 <td width="50%" valign="top">
 
 ### 🛣️ Road Hazard Detection System
+![Status](https://img.shields.io/badge/Status-Ongoing-64FFDA?style=flat-square&color=0d4f3c)
 > *Computer Vision | Object Detection | ML*
 
 Real-time detection of potholes, cracks, and road anomalies from camera feeds. Designed for integration with smart city infrastructure.
@@ -142,7 +143,8 @@ Real-time detection of potholes, cracks, and road anomalies from camera feeds. D
 <tr>
 <td width="50%" valign="top">
 
-### 📊 Predictive Analytics Engine
+### 📊 Predictive Analytics Models
+![Status](https://img.shields.io/badge/Status-Ongoing-64FFDA?style=flat-square&color=0d4f3c)
 > *Regression | Classification | Feature Engineering*
 
 End-to-end pipeline: data cleaning → feature selection → model training → cross-validation. Deployed via Streamlit for live inference.
@@ -152,7 +154,8 @@ End-to-end pipeline: data cleaning → feature selection → model training → 
 </td>
 <td width="50%" valign="top">
 
-### 📈 Intelligent Data Dashboards
+### 📈 Intelligent Data Visualization Dashboards
+![Status](https://img.shields.io/badge/Status-Ongoing-64FFDA?style=flat-square&color=0d4f3c)
 > *Visualization | EDA | Insights*
 
 Interactive dashboards that surface hidden patterns in complex datasets. Built for non-technical users with ML-powered anomaly flagging.
