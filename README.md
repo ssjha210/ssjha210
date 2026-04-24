@@ -10,8 +10,8 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shanu-jha-9106b1328/)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jhashanu208@email.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
 
 </div>
 
@@ -65,14 +65,14 @@ Got hands-on exposure to real AI/ML workflows during a 1-month internship. Worke
 <tr>
 <td width="50%" valign="top">
 
-### 📝 AI Notes Summarizer + Quiz Generator
+### 📦 Demand Forecasting & Dynamic Pricing System
 ![Status](https://img.shields.io/badge/Status-🔧%20Ongoing-orange?style=flat-square)
 
-> *NLP | HuggingFace | Streamlit*
+> *ML | Time Series | Predictive Modeling*
 
-Takes raw study notes and tries to generate a summary + quiz questions automatically. Still experimenting with the right summarization approach.
+Predicting product demand patterns and adjusting pricing dynamically based on forecasted trends. Learning time series forecasting and how pricing logic can be driven by data.
 
-`HuggingFace` `Transformers` `NLTK` `Streamlit`
+`Scikit-Learn` `Pandas` `NumPy` `Streamlit`
 
 </td>
 <td width="50%" valign="top">
