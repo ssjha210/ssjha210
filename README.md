@@ -144,26 +144,7 @@ Building interactive dashboards to practice exploratory data analysis and learn 
 
 ---
 
-## 🎯 Motive
 
-```
-I got into AI/ML because I want to build things that actually matter.
-
-Not to chase trends.
-Not to paste badges on a resume.
-But because I genuinely believe that understanding how machines learn
-is one of the most important skills of this decade.
-
-Right now, I'm a beginner.
-I make mistakes. I get stuck. I google a lot.
-
-But I'm consistent — and consistency beats talent when talent doesn't show up.
-
-The goal: go from learner → builder → engineer.
-One commit at a time.
-```
-
----
 
 
 ---
