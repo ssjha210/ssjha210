@@ -41,66 +41,7 @@ class Shanu:
 
 
 
-</td>
-</tr>
-</table>
 
----
-
-## 🔭 Ongoing Projects
-
-> All projects are **work in progress** — built while learning. Rough edges are part of the process.
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 📦 Demand Forecasting & Dynamic Pricing System
-![Status](https://img.shields.io/badge/Status-🔧%20Ongoing-orange?style=flat-square)
-
-> *ML | Time Series | Predictive Modeling*
-
-Predicting product demand patterns and adjusting pricing dynamically based on forecasted trends. Learning time series forecasting and how pricing logic can be driven by data.
-
-`Scikit-Learn` `Pandas` `NumPy` `Streamlit`
-
-</td>
-<td width="50%" valign="top">
-
-### 🛣️ Road Hazard Detection System
-![Status](https://img.shields.io/badge/Status-🔧%20Ongoing-orange?style=flat-square)
-
-> *Computer Vision | Object Detection*
-
-Attempting to detect potholes and road cracks from images using computer vision. Learning how detection models work as I build it.
-
-`OpenCV` `PyTorch` `YOLO` `NumPy`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 📊 Predictive Analytics Models
-![Status](https://img.shields.io/badge/Status-🔧%20Ongoing-orange?style=flat-square)
-
-> *Regression | Classification | Feature Engineering*
-
-Practicing ML fundamentals by building end-to-end pipelines — cleaning data, selecting features, training models, and evaluating results.
-
-`Scikit-Learn` `Pandas` `Matplotlib` `Streamlit`
-
-</td>
-<td width="50%" valign="top">
-
-### 📈 Data Visualization Dashboards
-![Status](https://img.shields.io/badge/Status-🔧%20Ongoing-orange?style=flat-square)
-
-> *EDA | Visualization | Insights*
-
-Building interactive dashboards to practice exploratory data analysis and learn how to communicate patterns from raw data clearly.
-
-`Seaborn` `Plotly` `Streamlit` `Pandas`
 
 </td>
 </tr>
