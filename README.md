@@ -58,7 +58,7 @@ class Shanu:
 **Language**
 
 ![Python](https://img.shields.io/badge/Python-1a1a2e?style=for-the-badge&logo=python&logoColor=64FFDA)
-
+![MATLAB](https://img.shields.io/badge/MATLAB-FF6F00?style=for-the-badge&logo=Mathworks&logoColor=white)
 **ML & Data**
 
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-1a1a2e?style=for-the-badge&logo=scikitlearn&logoColor=F7931E)
