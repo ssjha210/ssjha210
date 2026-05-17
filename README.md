@@ -114,6 +114,6 @@ class Shanu:
 
 <br/>
 
-![Visitor Count](https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=64FFDA&label=PROFILE+VIEWS)
+![Visitor Count](https://komarev.com/ghpvc/?username=ssjha210&style=for-the-badge&color=64FFDA&label=PROFILE+VIEWS)
 
 </div>
